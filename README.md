@@ -1,1 +1,1 @@
-# dicee
+# Dicee simple JavaScript project
